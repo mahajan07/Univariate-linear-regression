@@ -1,7 +1,7 @@
 # Guided-Project-1
-Coursera Linear Regression Project
+# Coursera Linear Regression Project
 
-Linear Regression with NumPy and Python. We will accomplish this with the help of following tasks in the project:
+### Linear Regression with NumPy and Python. We will accomplish this with the help of following tasks in the project:
 
 * Task 1: Introduction and Import Libraries
 * Task 2: Load the Data and Libraries
